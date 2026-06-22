@@ -23,3 +23,13 @@ Z-Alizadeh Sani Dataset
 
 ## Citation
 If you use this code, please cite the associated publication.
+
+## Author
+
+Foad Ghasemi
+
+M.Sc. Computer Software Engineering
+Machine Learning for Healthcare
+
+Google Scholar:
+https://scholar.google.com/citations?user=9XH7tgEAAAAJ
